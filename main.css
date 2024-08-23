@@ -246,3 +246,22 @@ hr{
   background-color: dodgerblue;
   color: white;
 }
+
+.bg-div {
+  background-color:lightgray;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.image-table {
+  margin: auto;
+  border-radius: 10px;
+}
+
+.image-table img {
+  margin: auto;
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+
+}
