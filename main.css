@@ -256,6 +256,8 @@ hr{
 .image-table {
   margin: auto;
   border-radius: 10px;
+  width: 95%;
+  table-layout: fixed;
 }
 
 .image-table img {
